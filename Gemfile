@@ -52,4 +52,6 @@ end
 
   gem 'devise'
 
+  gem 'auto_html'
+
 
